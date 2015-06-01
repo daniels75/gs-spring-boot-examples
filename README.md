@@ -17,3 +17,9 @@ and then open a browser with: http://localhost:8080/gs-spring-boot-0.1.0/
 
 * gs-spring-boot-tomcat - works with Tomcat container, you have to copy war file to the tomcat directory e.g.  apache-tomcat-8.0.23\webapps\
 and then open a browser with: http://localhost:8080/gs-spring-boot-0.1.0/
+
+
+
+----------------------------------------------------------------
+REST example:
+http://localhost:8080/gs-rest-service-0.1.0/greeting?name=Daniels
